@@ -55,7 +55,7 @@
     comparisons with the drill as you practice.
 
     #plate("drill-16-grid")
-  ], lines: 8, slots: 2),
+  ], lines: 8, slots: 2, examples: ("drill-60-13",)),
   exercise([
     #drill-heading(17)
 

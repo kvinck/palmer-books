@@ -58,7 +58,7 @@
     them across.
 
     #plate("drill-12-grid")
-  ], lines: 8, examples: ("drill-12", "drill-12-2")),
+  ], lines: 8, examples: ("drill-60-8",)),
   exercise([
     #drill-heading(13)
 

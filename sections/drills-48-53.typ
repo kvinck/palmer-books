@@ -13,7 +13,7 @@
     for each group of five letters.
 
     #plate("drill-49-grid")
-  ], lines: 8, examples: ("drill-49", "drill-49-2")),
+  ], lines: 8, examples: ("drill-60-5",)),
   exercise([
     #drill-heading(50)
   ], lines: 6, slots: 4, examples: ("drill-50", "drill-50-2")),

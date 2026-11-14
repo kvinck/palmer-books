@@ -7,7 +7,7 @@
     Small a should be reviewed frequently as a movement drill.
 
     #plate("drill-38-grid")
-  ], lines: 8, examples: ("drill-38", "drill-38-2")),
+  ], lines: 8, examples: ("drill-60-9",)),
   exercise([
     #drill-heading(39)
 
@@ -23,7 +23,7 @@
     #instruction[Write eighty c's in 60 seconds. Five to a group.]
 
     #plate("drill-39-grid")
-  ], lines: 8, examples: ("drill-39", "drill-39-2")),
+  ], lines: 8, examples: ("drill-60-12",)),
   exercise([
     #drill-heading(40)
 

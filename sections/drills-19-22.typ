@@ -35,7 +35,7 @@
 
     #instruction[Write 140 e's in 60 seconds. Five to a group, three groups to a line.]
     #plate("drill-20-grid")
-  ], lines: 8),
+  ], lines: 8, examples: ("drill-60-10",)),
   exercise([
     #drill-heading(21)
 

@@ -25,7 +25,7 @@
     #instruction[Write seventeen groups of s's in 60 seconds. Five to a group.]
 
     #plate("drill-44-grid")
-  ], lines: 8, examples: ("drill-44", "drill-44-2")),
+  ], lines: 8, examples: ("drill-60-11",)),
   exercise([
     #drill-heading(45)
 
@@ -44,7 +44,7 @@
     #drill-heading(46)
 
     #plate("drill-46-grid")
-  ], lines: 8, examples: ("drill-46", "drill-46-2")),
+  ], lines: 8, examples: ("drill-60-4",)),
   exercise([
     #drill-heading(47)
 
@@ -54,5 +54,5 @@
     crossing short.
 
     #plate("drill-47-grid")
-  ], lines: 8, examples: ("drill-47", "drill-47-2")),
+  ], lines: 8, examples: ("drill-60-7",)),
 )
